@@ -1,0 +1,13 @@
+{
+  "name": "admin",
+  "version": "0.0.1",
+  "description": "Starztalk admin section",
+  "main": "index.js",
+  
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Deedaralam",
+
+}
